@@ -1,9 +1,11 @@
 
 # Smart India Hackathon Workshop
 
-**Date:** 24 November 2026  
-**Reference Number:** 26017105 
-**Name:** Devandra Prasad M
+**Date:** 24 November 2026
+
+**Reference Number:** 26017105
+
+**Name:** Devandira Prasad M
 
 ---
 
